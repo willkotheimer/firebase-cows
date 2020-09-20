@@ -1,0 +1,17 @@
+{
+  "key1": {
+    "name": "Dr.T ",
+    "age": 42,
+    "uid": "someid"
+  },
+  "key2": {
+    "name": "Jacob",
+		"age": 36,
+    "uid": "newid"
+  },
+  "key3": {
+    "name": "Abbey",
+    "age": 28,
+    "uid": "idAgain"
+  }
+}
